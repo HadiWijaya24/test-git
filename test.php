@@ -1,5 +1,7 @@
 <?php 
 
-"<h1> ini halaman pertama git </h1>"
+"<h1> ini halaman pertama git </h1>";
+
+echo "ini perubahan kedua";
 
 ?>
